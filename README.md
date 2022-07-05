@@ -11,7 +11,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
  
 
 <p align="center">
-  <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="1em">
+  <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="0.25em">
 </p>
  
 ## :hammer: Tools and Technologies :computer:
