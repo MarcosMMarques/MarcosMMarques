@@ -1,11 +1,11 @@
 # Marcos Marques
-Hello everyone, call me Marcos and welcome to my github profile 
-
-### Contatos:
 <div>
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mdmarques70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+###Hello everyone 
+Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagoda, despite not playing any instruments 
+
 
 * 🔭 I am currently studying Computer Science at IFNMG
 * 🌱 I’m currently learning backend languages
