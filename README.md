@@ -32,4 +32,3 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
  </a>
 </p>
  
- ![Snake animation](https://github.com/MarcosMMarques/MarcosMMarques/blob/output/github-contribution-grid-snake.svg)
