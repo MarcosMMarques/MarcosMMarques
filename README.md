@@ -16,7 +16,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 * 😄 Pronouns: ...
  ⚡ Fun fact: ...
  
-## Ferramentas e Tecnologias</br>
+## Tools and Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -24,7 +24,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-## Estou aprendendo
+## I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60"/>
 
 <!--Status no GitHub-->
@@ -32,5 +32,5 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 <div>
 <a href="https://github.com/MarcosMMarques">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMMarques&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMMarques-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
