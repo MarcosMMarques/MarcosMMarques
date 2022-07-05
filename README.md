@@ -6,7 +6,7 @@
 </br>
 
 ## Hello everyone! :smile_cat: 
-Call me Marcos and welcome to my github profile, I'm a fan of programming, animals, pagode despite not playing any instruments and my dream is to turn codes into goals with the help of coffee 
+Call me Marcos and welcome to my github profile, I'm a fan of programming, animals, pagode despite not playing any instruments and my dream is to turn codes into goals with the help of coffee <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="50">
  * I'm studying computer science at IFNMG.
  
 
