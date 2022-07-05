@@ -7,6 +7,7 @@
 
 ## Hello everyone! :smile_cat: 
 Call me Marcos and welcome to my github profile, I'm a fan of programming, animals, pagode despite not playing any instruments and my dream is to turn codes into goals with the help of coffee :coffee:
+ * IT Technician certified by IFNMG
  * I'm studying Computer Science at IFNMG.
  
   <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="150">
