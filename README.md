@@ -6,14 +6,10 @@
 </br>
 
 ## Hello everyone :smile_cat: 
-Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagoda, despite not playing any instruments 
-
-* 🔭 I am currently studying Computer Science at IFNMG
-* 🌱 I’m currently learning backend languages
-* 💬 Ask me about anything.
-* 📫 How to reach me: @mdmarques70@gmail.com
-* 😄 Pronouns: ...
- ⚡ Fun fact: ...
+Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagode despite not playing any instruments 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
  
 ## Tools and Technologies
 <div>
