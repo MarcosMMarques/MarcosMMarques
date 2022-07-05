@@ -3,9 +3,7 @@
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="40" height="40" target="_blank"></a>
 <a href = "mailto:mdmarques70@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="40" height="40" target="_blank"></a>
 </div>
-
-https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
+</br>
 ## Hello everyone :smile_cat: 
 </br>
 Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagoda, despite not playing any instruments 
