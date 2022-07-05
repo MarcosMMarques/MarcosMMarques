@@ -5,13 +5,13 @@
 </div>
 </br>
 
-## Hello everyone :smile_cat: 
+## Hello everyone! :smile_cat: 
 Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagode despite not playing any instruments 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
  
-## Tools and Technologies
+## :hammer: Tools and Technologies :computer:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
