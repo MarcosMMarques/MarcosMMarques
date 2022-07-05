@@ -1,7 +1,7 @@
 # Marcos Marques
 <div>
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="40" height="40" target="_blank"></a>
-<a href = "mailto:mdmarques70@gmail.com"><img src="https://icon-library.com/images/gmail-icon-png-transparent/gmail-icon-png-transparent-18.jpg" width="40" height="40" target="_blank"></a>
+<a href = "mailto:mdmarques70@gmail.com"><img src="https://pngset.com/images/gmail-logo-black-amp-white-envelope-airplane-aircraft-vehicle-transparent-png-143884.png" width="40" height="40" target="_blank"></a>
 </div>
 
 https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white
