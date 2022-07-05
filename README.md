@@ -6,7 +6,13 @@
 </br>
 
 ## Hello everyone! :smile_cat: 
-Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagode despite not playing any instruments.
+Call me Marcos and welcome to my github profile, I'm a fan of programming, animals, pagode despite not playing any instruments and my dream is to turn codes into goals with the help of coffee 
+ * I'm studying computer science at IFNMG.
+ 
+
+<p align="center">
+  <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="350">
+</p>
  
 ## :hammer: Tools and Technologies :computer:
 <div>
@@ -19,9 +25,6 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 ## I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60"/>
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
 
 <!--Status no GitHub-->
 ##
