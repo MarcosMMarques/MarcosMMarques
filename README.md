@@ -16,7 +16,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 * 😄 Pronouns: ...
  ⚡ Fun fact: ...
  
-### Ferramentas e Tecnologias</br>
+## Ferramentas e Tecnologias</br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
