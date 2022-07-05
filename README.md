@@ -6,10 +6,7 @@
 </br>
 
 ## Hello everyone! :smile_cat: 
-Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagode despite not playing any instruments 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagode despite not playing any instruments.
  
 ## :hammer: Tools and Technologies :computer:
 <div>
@@ -21,6 +18,10 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 
 ## I am learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60"/>
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 <!--Status no GitHub-->
 </hr>
