@@ -3,7 +3,7 @@
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:mdmarques70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-### Hello everyone 
+### Hello everyone :smile_cat: </br>
 Call me Marcos and welcome to my github profile, I'm a fan of programming, animals and pagoda, despite not playing any instruments 
 
 
@@ -14,7 +14,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 * 😄 Pronouns: ...
  ⚡ Fun fact: ...
  
-### Ferramentas e Tecnologias
+### Ferramentas e Tecnologias</br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
