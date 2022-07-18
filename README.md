@@ -10,7 +10,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
  * IT Technician certified by IFNMG
  * I'm studying Computer Science at IFNMG.
  
-  <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="150">
+  <img src="https://c.tenor.com/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="150" height="150">
  
 ## :hammer: Tools and Technologies :computer:
 <div>
