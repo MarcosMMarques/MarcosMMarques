@@ -21,7 +21,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 </div>
 
 ## I am learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>
 
 
 <!--Status no GitHub-->
