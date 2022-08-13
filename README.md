@@ -1,8 +1,8 @@
 # Marcos Marques
 <div>
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="40" height="40" target="_blank"></a>
-<a href = "mailto:mdmarques70@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="100" height="50" target="_blank"></a>
-<a href="https://marcosdmarques.blogspot.com/" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2021/08/Blogger-Logo.png" width="40" height="40" target="_blank"></a>
+<a href = "mailto:mdmarques70@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="40" height="40" target="_blank"></a>
+<a href="https://marcosdmarques.blogspot.com/" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2021/08/Blogger-Logo.png" width="90" height="50" target="_blank"></a>
 </div>
 </br>
 
