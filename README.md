@@ -1,7 +1,8 @@
 # Marcos Marques
 <div>
 <a href="https://instagram.com/marcosd_marques" target="_blank"><img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/insta.svg" width="40" height="40" target="_blank"></a>
-<a href = "mailto:mdmarques70@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="40" height="40" target="_blank"></a></br>
+<a href = "mailto:mdmarques70@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/gmail-logo-icon-2.png" width="40" height="40" target="_blank"></a>
+<a href="https://marcosdmarques.blogspot.com/" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2021/08/Blogger-Logo.png" width="90" height="50" target="_blank"></a>
 <a href="https://marcosdmarques.blogspot.com/" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2021/08/Blogger-Logo.png" width="90" height="50" target="_blank"></a>
 </div>
 </br>
@@ -17,6 +18,7 @@ Call me Marcos and welcome to my github profile, I'm a fan of programming, anima
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="80" height="80"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="65" height="65"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="65" height="65"/>
 </div>
